@@ -2342,3 +2342,1486 @@ Sampler Limit: 32
 [2025.11.16-04.03.58:635][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3150.872803
 [2025.11.16-04.03.59:624][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.16-04.03.59:624][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3151.528076, Update Interval: 308.236328
+[2025.11.16-04.10.01:354][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3513.592773
+[2025.11.16-04.10.02:366][944]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.10.02:366][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3514.259521, Update Interval: 352.245239
+[2025.11.16-04.11.29:382][ 28]LogSlate: External Image Picker: DecompressImage failed
+[2025.11.16-04.13.22:658][ 65]LogDerivedDataCache: C:/Users/strel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.16-04.15.17:619][588]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.16-04.15.17:628][588]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.16-04.15.17:639][589]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.16-04.15.19:434][724]LogContentBrowser: Attempting asset rename: NewFolder -> Enemy
+[2025.11.16-04.15.19:434][724]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.16-04.15.29:181][ 85]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.16-04.15.29:190][ 85]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.16-04.15.29:209][ 87]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.16-04.15.31:884][286]LogContentBrowser: Attempting asset rename: NewFolder -> Turret
+[2025.11.16-04.15.31:884][286]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.16-04.15.41:056][543]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.16-04.15.41:062][543]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.16-04.15.41:071][543]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.16-04.15.41:090][545]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.16-04.15.44:280][765]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Turret
+[2025.11.16-04.15.44:287][765]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.16-04.15.49:305][987]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.16-04.15.49:311][987]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.16-04.15.49:320][987]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.16-04.15.49:332][988]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.16-04.15.57:977][579]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TurretProjectile
+[2025.11.16-04.15.57:984][579]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.16-04.16.00:337][736]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret
+[2025.11.16-04.16.00:338][736]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.11.16-04.16.09:621][460]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.11.16-04.16.33:300][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3905.511475
+[2025.11.16-04.16.33:383][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.16.33:383][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3905.586670, Update Interval: 313.469635
+[2025.11.16-04.17.56:632][ 86]LogEditorTransaction: Undo Set Location
+[2025.11.16-04.17.57:457][126]LogEditorTransaction: Undo Set Location
+[2025.11.16-04.19.50:155][772]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.19.53:576][994]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.19.54:035][ 33]LogEditorTransaction: Undo Attach Component
+[2025.11.16-04.20.06:804][193]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.20.26:721][251]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.20.33:128][738]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.21.58:949][954]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.22.08:848][748]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.22.16:953][411]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.22.21:819][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4254.047363
+[2025.11.16-04.22.21:886][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.22.21:886][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4254.105469, Update Interval: 308.250977
+[2025.11.16-04.22.27:398][200]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.22.34:303][708]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.22.42:752][348]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.22.46:661][590]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.22.54:832][234]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.23.10:393][771]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.16-04.23.43:756][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.16-04.23.43:759][ 60]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestEnviornment' took 0.103
+[2025.11.16-04.23.44:106][ 60]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.23.44:122][ 60]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.23.44:122][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.23.44:137][ 60]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Turret/BP_Turret_Auto2
+[2025.11.16-04.23.44:137][ 60]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_Turret_Auto2DBDFEF5B47C31E3DD92DB0AC5BCF9550.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/Autosaves/Game/Enemy/Turret/BP_Turret_Auto2.uasset'
+[2025.11.16-04.23.44:138][ 60]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/Turret/BP_TurretProjectile] ([2] browsable assets)...
+[2025.11.16-04.23.44:138][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_TurretProjectile]
+[2025.11.16-04.23.44:147][ 60]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Turret/BP_TurretProjectile_Auto2
+[2025.11.16-04.23.44:147][ 60]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretProjectile_Auto2633564F243CFBAF45DECCA908D08A5B8.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/Autosaves/Game/Enemy/Turret/BP_TurretProjectile_Auto2.uasset'
+[2025.11.16-04.23.44:147][ 60]LogFileHelpers: Auto-saving content packages took 0.388
+[2025.11.16-04.24.22:539][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.16-04.24.24:309][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.24.24:332][914]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.24.24:342][914]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.24.24:342][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.24.24:342][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.24.24:480][914]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.24.24:480][914]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretA3DBFE754FA35997308AC0A76E49AEE1.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.24.24:499][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.312 ms (total: 2.07 sec)
+[2025.11.16-04.24.24:533][914]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.24.24:533][914]LogContentValidation: Enabled validators:
+[2025.11.16-04.24.24:533][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.24.24:533][914]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.24.24:533][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.24.24:533][914]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.24.24:533][914]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.24.24:533][914]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.24.24:533][914]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.24.24:565][914]LogSourceControl: Display: Uncontrolled Changelist persistency file saved I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.16-04.25.26:452][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.16-04.25.27:405][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.25.27:439][223]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.25.27:450][223]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.25.27:450][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.25.27:450][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.25.27:463][223]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.25.27:463][223]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_Turret9B77B6214871E5397E0F73A595BF4EA2.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.25.27:475][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.153 ms (total: 2.14 sec)
+[2025.11.16-04.25.27:501][223]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.25.27:501][223]LogContentValidation: Enabled validators:
+[2025.11.16-04.25.27:501][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.25.27:501][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.25.27:502][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.25.27:502][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.25.27:502][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.25.27:502][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.25.27:502][223]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.28.25:749][567]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4618.339844
+[2025.11.16-04.28.25:833][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.28.25:833][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4618.410156, Update Interval: 331.822876
+[2025.11.16-04.29.31:487][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.16-04.29.32:422][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.29.32:459][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.29.32:510][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.29.32:510][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.29.32:510][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.29.32:527][863]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.29.32:527][863]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_Turret87B07EC846C41E4871FC1FB0B6ADC649.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.29.32:540][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.954 ms (total: 2.26 sec)
+[2025.11.16-04.29.32:575][863]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.29.32:575][863]LogContentValidation: Enabled validators:
+[2025.11.16-04.29.32:575][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.29.32:575][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.29.32:575][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.29.32:575][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.29.32:575][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.29.32:575][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.29.32:575][863]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.30.24:958][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.30.24:982][632]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.30.25:030][632]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.30.25:030][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.30.25:030][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.30.25:043][632]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.30.25:043][632]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretD6584F4F4F262F84986F50A5E4782CFF.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.30.25:055][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.618 ms (total: 2.36 sec)
+[2025.11.16-04.30.25:086][632]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.30.25:086][632]LogContentValidation: Enabled validators:
+[2025.11.16-04.30.25:086][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.30.25:086][632]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.30.25:086][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.30.25:086][632]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.30.25:086][632]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.30.25:086][632]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.30.25:086][632]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.30.25:909][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.16-04.32.18:600][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.16-04.32.19:421][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.32.19:455][699]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.32.19:501][699]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.32.19:501][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.32.19:501][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.32.19:518][699]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.32.19:518][699]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_Turret8A6EF5974DE572A136BECBA2EF94F6D2.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.32.19:530][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.257 ms (total: 2.47 sec)
+[2025.11.16-04.32.19:558][699]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.32.19:558][699]LogContentValidation: Enabled validators:
+[2025.11.16-04.32.19:558][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.32.19:558][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.32.19:558][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.32.19:558][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.32.19:558][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.32.19:558][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.32.19:559][699]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.33.43:909][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.16-04.33.45:156][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.33.45:188][685]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.33.45:241][685]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.33.45:241][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.33.45:242][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.33.45:257][685]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.33.45:258][685]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_Turret06C577474E80FB05530F67ADF38369DC.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.33.45:270][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.131 ms (total: 2.58 sec)
+[2025.11.16-04.33.45:299][685]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.33.45:299][685]LogContentValidation: Enabled validators:
+[2025.11.16-04.33.45:299][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.33.45:299][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.33.45:299][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.33.45:299][685]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.33.45:299][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.33.45:299][685]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.33.45:299][685]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.33.50:584][ 34]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Turret/BP_Turret.BP_Turret_C
+[2025.11.16-04.33.50:584][ 34]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Turret/BP_Turret.BP_Turret_C
+[2025.11.16-04.33.50:586][ 34]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret as actor: BP_Turret_C /Game/TestEnviornment.TestEnviornment:PersistentLevel.BP_Turret_C_0
+[2025.11.16-04.33.50:589][ 34]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret as actor: BP_Turret_C /Game/TestEnviornment.TestEnviornment:PersistentLevel.BP_Turret_C_0
+[2025.11.16-04.33.52:982][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.16-04.33.52:996][187]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2025.11.16-04.33.53:005][187]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Turret/BP_Turret.BP_Turret_C
+[2025.11.16-04.33.53:005][187]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Turret/BP_Turret.BP_Turret_C
+[2025.11.16-04.33.53:008][187]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret as actor: BP_Turret_C /Game/TestEnviornment.TestEnviornment:PersistentLevel.BP_Turret_C_1
+[2025.11.16-04.33.53:011][187]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret as actor: BP_Turret_C /Game/TestEnviornment.TestEnviornment:PersistentLevel.BP_Turret_C_1
+[2025.11.16-04.34.03:779][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.34.03:785][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.34.03:817][444]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.34.03:820][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003379s)
+[2025.11.16-04.34.03:820][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003429s)
+[2025.11.16-04.34.03:848][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.16-04.34.03:850][444]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.34.03:853][444]LogPlayLevel: PIE: World Init took: (0.003658s)
+[2025.11.16-04.34.03:854][444]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.11.16-04.34.03:854][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.34.03:854][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.34.03:854][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.34.03:854][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.34.03:854][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.34.03:854][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.34.03:854][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.34.03:854][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.34.03:854][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.34.03:854][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.34.03:854][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.34.03:857][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.34.03:889][444]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.34.03:890][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.34.03:890][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.34.03:890][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.34.03:890][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.11.16-04.34.03:890][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2025.11.16-04.34.03:892][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.11.16-04.34.03:892][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.11.16-04.34.03:892][444]LogInit: FAudioDevice initialized with ID 14.
+[2025.11.16-04.34.03:892][444]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestEnviornment'.
+[2025.11.16-04.34.03:892][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.16-04.34.03:898][444]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.34.03:899][444]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.34.03
+[2025.11.16-04.34.03:900][444]LogWorld: Bringing up level for play took: 0.001079
+[2025.11.16-04.34.03:902][444]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.11.16-04.34.03:908][444]PIE: Server logged in
+[2025.11.16-04.34.03:910][444]PIE: Play in editor total start time 0.125 seconds.
+[2025.11.16-04.34.03:961][445]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.34.24:967][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.34.24:967][ 49]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.34.24:967][ 49]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.34.24:968][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.34.24:976][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.34.24:981][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.34.25:009][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.34.25:009][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.16-04.34.25:009][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.11.16-04.34.25:011][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.11.16-04.34.25:017][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.34.25:019][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.16-04.34.25:105][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.11.16-04.34.40:986][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4993.810059
+[2025.11.16-04.34.41:084][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.34.41:084][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4993.895020, Update Interval: 354.039734
+[2025.11.16-04.34.43:778][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.34.43:842][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestEnviornment" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.16-04.34.43:901][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.16-04.34.43:918][741]LogSavePackage: Moving output files for package: /Game/TestEnviornment
+[2025.11.16-04.34.43:918][741]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/TestEnviornment21E30C044D1B43BE3D8A049E9773A090.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap'
+[2025.11.16-04.34.43:932][741]LogFileHelpers: Saving map 'TestEnviornment' took 0.089
+[2025.11.16-04.34.43:944][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.697 ms (total: 2.75 sec)
+[2025.11.16-04.34.43:974][741]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.34.43:974][741]LogContentValidation: Enabled validators:
+[2025.11.16-04.34.43:974][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.34.43:974][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.34.43:974][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.34.43:974][741]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.34.43:974][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.34.43:974][741]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.34.43:974][741]AssetCheck: /Game/TestEnviornment Validating asset
+[2025.11.16-04.35.00:421][ 96]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Turret/BP_TurretProjectile.BP_TurretProjectile
+[2025.11.16-04.35.00:421][ 96]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.16-04.35.05:580][456]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.16-04.35.27:314][472]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_TurretProjectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.050 Y=0.000 Z=1.000
+[2025.11.16-04.35.27:315][472]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_TurretProjectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.050 Y=0.000 Z=1.000
+[2025.11.16-04.35.27:315][472]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_TurretProjectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.050 Y=0.000 Z=1.000
+[2025.11.16-04.35.27:315][472]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_TurretProjectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.050 Y=0.000 Z=1.000
+[2025.11.16-04.35.39:841][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.16-04.35.41:444][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.35.41:473][201]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_TurretProjectile] ([2] browsable assets)...
+[2025.11.16-04.35.41:485][201]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_TurretProjectile.BP_TurretProjectile]
+[2025.11.16-04.35.41:485][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_TurretProjectile]
+[2025.11.16-04.35.41:485][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_TurretProjectile" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset" SILENT=true
+[2025.11.16-04.35.41:497][201]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_TurretProjectile
+[2025.11.16-04.35.41:497][201]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretProjectile9EB45A91429E794154E5F08BE3DF9F03.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset'
+[2025.11.16-04.35.41:511][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.236 ms (total: 2.81 sec)
+[2025.11.16-04.35.41:543][201]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.35.41:543][201]LogContentValidation: Enabled validators:
+[2025.11.16-04.35.41:543][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.35.41:543][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.35.41:543][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.35.41:543][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.35.41:543][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.35.41:543][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.35.41:543][201]AssetCheck: /Game/Enemy/Turret/BP_TurretProjectile Validating asset
+[2025.11.16-04.35.41:576][201]LogSourceControl: Display: Uncontrolled Changelist persistency file saved I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.16-04.36.19:470][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.16-04.36.20:406][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.36.20:429][597]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_TurretProjectile] ([2] browsable assets)...
+[2025.11.16-04.36.20:439][597]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_TurretProjectile.BP_TurretProjectile]
+[2025.11.16-04.36.20:439][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_TurretProjectile]
+[2025.11.16-04.36.20:439][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_TurretProjectile" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset" SILENT=true
+[2025.11.16-04.36.20:450][597]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_TurretProjectile
+[2025.11.16-04.36.20:451][597]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretProjectile35F6498548778AC280F337A3A68662CE.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset'
+[2025.11.16-04.36.20:464][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.843 ms (total: 2.87 sec)
+[2025.11.16-04.36.20:497][597]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.36.20:497][597]LogContentValidation: Enabled validators:
+[2025.11.16-04.36.20:497][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.36.20:497][597]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.36.20:497][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.36.20:497][597]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.36.20:497][597]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.36.20:497][597]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.36.20:497][597]AssetCheck: /Game/Enemy/Turret/BP_TurretProjectile Validating asset
+[2025.11.16-04.37.48:370][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.16-04.37.49:342][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.37.49:371][852]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.37.49:424][852]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.37.49:424][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.37.49:424][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.37.49:442][852]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.37.49:442][852]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_Turret5B1A28584FC93AD0CF12B1A625F26A45.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.37.49:454][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.909 ms (total: 2.98 sec)
+[2025.11.16-04.37.49:490][852]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.37.49:490][852]LogContentValidation: Enabled validators:
+[2025.11.16-04.37.49:490][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.37.49:490][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.37.49:490][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.37.49:490][852]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.37.49:490][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.37.49:490][852]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.37.49:490][852]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.37.49:838][877]LogPSOHitching: Encountered 50 PSO creation hitches so far (3 graphics, 47 compute). 0 of them were precached.
+[2025.11.16-04.37.51:260][970]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.37.51:268][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.37.51:268][970]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.37.51:271][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003296s)
+[2025.11.16-04.37.51:271][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003330s)
+[2025.11.16-04.37.51:301][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.16-04.37.51:302][970]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.37.51:304][970]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2025.11.16-04.37.51:305][970]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.11.16-04.37.51:305][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.37.51:305][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.37.51:305][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.37.51:305][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.37.51:305][970]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.37.51:305][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.37.51:305][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.37.51:305][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.37.51:305][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.37.51:305][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.37.51:305][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.37.51:307][970]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.37.51:339][970]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.37.51:339][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.37.51:339][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.37.51:339][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.37.51:340][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.11.16-04.37.51:340][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2025.11.16-04.37.51:342][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.11.16-04.37.51:342][970]LogInit: FAudioDevice initialized with ID 15.
+[2025.11.16-04.37.51:342][970]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestEnviornment'.
+[2025.11.16-04.37.51:342][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.11.16-04.37.51:342][970]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.11.16-04.37.51:345][970]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.37.51:346][970]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.37.51
+[2025.11.16-04.37.51:346][970]LogWorld: Bringing up level for play took: 0.000995
+[2025.11.16-04.37.51:348][970]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.11.16-04.37.51:350][970]PIE: Server logged in
+[2025.11.16-04.37.51:352][970]PIE: Play in editor total start time 0.085 seconds.
+[2025.11.16-04.37.51:400][971]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.38.03:476][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.38.03:476][918]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.38.03:477][918]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.38.03:479][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.38.03:485][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.38.03:490][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.38.03:518][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.38.03:518][918]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.11.16-04.38.03:518][918]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.11.16-04.38.03:520][918]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.11.16-04.38.03:524][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.38.03:528][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.16-04.38.03:616][919]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.11.16-04.39.42:602][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.16-04.39.44:598][781]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.39.44:604][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.39.44:605][781]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.39.44:608][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003040s)
+[2025.11.16-04.39.44:608][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003072s)
+[2025.11.16-04.39.44:635][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.16-04.39.44:637][781]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.39.44:638][781]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2025.11.16-04.39.44:639][781]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.11.16-04.39.44:639][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.39.44:639][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.39.44:639][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.39.44:639][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.39.44:639][781]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.39.44:639][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.39.44:639][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.39.44:639][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.39.44:639][781]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.39.44:639][781]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.39.44:639][781]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.39.44:641][781]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.39.44:673][781]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.39.44:677][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.39.44:677][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.39.44:677][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.39.44:678][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.11.16-04.39.44:678][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2025.11.16-04.39.44:680][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.11.16-04.39.44:680][781]LogInit: FAudioDevice initialized with ID 16.
+[2025.11.16-04.39.44:680][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.11.16-04.39.44:680][781]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestEnviornment'.
+[2025.11.16-04.39.44:680][781]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.16-04.39.44:683][781]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.39.44:684][781]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.39.44
+[2025.11.16-04.39.44:684][781]LogWorld: Bringing up level for play took: 0.000966
+[2025.11.16-04.39.44:686][781]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.11.16-04.39.44:688][781]PIE: Server logged in
+[2025.11.16-04.39.44:690][781]PIE: Play in editor total start time 0.086 seconds.
+[2025.11.16-04.39.44:738][782]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.40.01:877][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.40.01:877][ 64]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.40.01:878][ 64]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.40.01:881][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.40.01:884][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.40.01:889][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.40.01:914][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.40.01:914][ 64]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.16-04.40.01:914][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.11.16-04.40.01:916][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.11.16-04.40.01:920][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.40.01:925][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.16-04.40.02:013][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.11.16-04.40.11:476][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.40.11:500][267]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.40.11:555][267]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.40.11:555][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.40.11:555][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.40.11:571][267]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.40.11:571][267]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretC6EF251F479391A47F49D19DD1D9B82F.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.40.11:584][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.611 ms (total: 3.09 sec)
+[2025.11.16-04.40.11:620][267]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.40.11:620][267]LogContentValidation: Enabled validators:
+[2025.11.16-04.40.11:620][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.40.11:620][267]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.40.11:620][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.40.11:620][267]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.40.11:620][267]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.40.11:620][267]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.40.11:620][267]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.41.21:306][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.41.21:342][ 64]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.41.21:394][ 64]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.41.21:394][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.41.21:394][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.41.21:413][ 64]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.41.21:414][ 64]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_Turret74BC6AA24F871A6498E9E28E8F371CEF.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.41.21:426][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.333 ms (total: 3.21 sec)
+[2025.11.16-04.41.21:459][ 64]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.41.21:459][ 64]LogContentValidation: Enabled validators:
+[2025.11.16-04.41.21:459][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.41.21:459][ 64]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.41.21:459][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.41.21:459][ 64]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.41.21:459][ 64]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.41.21:459][ 64]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.41.21:459][ 64]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.41.23:418][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.16-04.41.24:189][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.41.24:218][325]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.41.24:267][325]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.41.24:267][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.41.24:267][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.41.24:282][325]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.41.24:282][325]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretBBD387B64FF67DF641A52D9652C9E29C.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.41.24:295][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.587 ms (total: 3.32 sec)
+[2025.11.16-04.41.24:330][325]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.41.24:330][325]LogContentValidation: Enabled validators:
+[2025.11.16-04.41.24:330][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.41.24:330][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.41.24:330][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.41.24:330][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.41.24:330][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.41.24:330][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.41.24:330][325]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.41.30:669][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5403.656738
+[2025.11.16-04.41.30:769][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.41.30:769][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5403.749023, Update Interval: 341.135895
+[2025.11.16-04.41.45:464][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.16-04.41.46:116][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.41.46:141][733]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.41.46:194][733]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.41.46:195][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.41.46:195][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.41.46:210][733]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.41.46:210][733]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretDA6F6BE54919ABFB8F0A8EBADC4BA70A.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.41.46:222][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.489 ms (total: 3.43 sec)
+[2025.11.16-04.41.46:252][733]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.41.46:252][733]LogContentValidation: Enabled validators:
+[2025.11.16-04.41.46:252][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.41.46:252][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.41.46:252][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.41.46:252][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.41.46:252][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.41.46:252][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.41.46:252][733]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.42.20:267][303]LogSlate: Took 0.007467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.11.16-04.44.27:265][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.16-04.44.27:869][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.44.27:908][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerChar] ([2] browsable assets)...
+[2025.11.16-04.44.27:908][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerChar]
+[2025.11.16-04.44.27:908][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerChar" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset" SILENT=true
+[2025.11.16-04.44.27:933][792]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerChar
+[2025.11.16-04.44.27:933][792]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_PlayerChar8AF6459E4657A64E84D58CAD49ABEAB0.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset'
+[2025.11.16-04.44.27:989][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.829 ms (total: 3.55 sec)
+[2025.11.16-04.44.28:017][792]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.44.28:017][792]LogContentValidation: Enabled validators:
+[2025.11.16-04.44.28:017][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.44.28:017][792]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.44.28:017][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.44.28:017][792]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.44.28:017][792]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.44.28:017][792]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.44.28:017][792]AssetCheck: /Game/Player/BP_PlayerChar Validating asset
+[2025.11.16-04.44.28:049][792]LogSourceControl: Display: Uncontrolled Changelist persistency file saved I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.16-04.46.56:779][164]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::ApplyDamage' [Element not found.]
+[2025.11.16-04.47.46:545][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.16-04.47.47:741][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.47.47:764][953]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_TurretProjectile] ([2] browsable assets)...
+[2025.11.16-04.47.47:813][953]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_TurretProjectile.BP_TurretProjectile]
+[2025.11.16-04.47.47:813][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_TurretProjectile]
+[2025.11.16-04.47.47:813][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_TurretProjectile" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset" SILENT=true
+[2025.11.16-04.47.47:825][953]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_TurretProjectile
+[2025.11.16-04.47.47:826][953]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretProjectileE0DEE09D45C89414E6D9609DE211616F.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset'
+[2025.11.16-04.47.47:838][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.426 ms (total: 3.64 sec)
+[2025.11.16-04.47.47:869][953]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.47.47:869][953]LogContentValidation: Enabled validators:
+[2025.11.16-04.47.47:869][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.47.47:869][953]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.47.47:869][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.47.47:869][953]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.47.47:869][953]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.47.47:869][953]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.47.47:869][953]AssetCheck: /Game/Enemy/Turret/BP_TurretProjectile Validating asset
+[2025.11.16-04.47.49:434][ 67]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.47.49:441][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.47.49:467][ 67]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.47.49:470][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003325s)
+[2025.11.16-04.47.49:470][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003370s)
+[2025.11.16-04.47.49:501][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.16-04.47.49:503][ 67]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.47.49:504][ 67]LogPlayLevel: PIE: World Init took: (0.001855s)
+[2025.11.16-04.47.49:505][ 67]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.11.16-04.47.49:505][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.47.49:505][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.47.49:505][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.47.49:505][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.47.49:505][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.47.49:505][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.47.49:505][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.47.49:505][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.47.49:505][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.47.49:505][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.47.49:505][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.47.49:508][ 67]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.47.49:541][ 67]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.47.49:541][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.47.49:541][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.47.49:541][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.47.49:542][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.11.16-04.47.49:542][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2025.11.16-04.47.49:544][ 67]LogInit: FAudioDevice initialized with ID 17.
+[2025.11.16-04.47.49:544][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.11.16-04.47.49:544][ 67]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestEnviornment'.
+[2025.11.16-04.47.49:544][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.11.16-04.47.49:544][ 67]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.16-04.47.49:548][ 67]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.47.49:549][ 67]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.47.49
+[2025.11.16-04.47.49:549][ 67]LogWorld: Bringing up level for play took: 0.001024
+[2025.11.16-04.47.49:552][ 67]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.11.16-04.47.49:554][ 67]PIE: Server logged in
+[2025.11.16-04.47.49:556][ 67]PIE: Play in editor total start time 0.115 seconds.
+[2025.11.16-04.47.49:608][ 68]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.47.51:922][240]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -10.0
+[2025.11.16-04.47.51:973][244]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -20.0
+[2025.11.16-04.47.51:999][246]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -30.0
+[2025.11.16-04.47.52:039][249]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -40.0
+[2025.11.16-04.47.52:095][253]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -50.0
+[2025.11.16-04.47.52:135][256]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -60.0
+[2025.11.16-04.47.52:172][259]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -70.0
+[2025.11.16-04.47.52:212][262]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -80.0
+[2025.11.16-04.47.52:252][265]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -90.0
+[2025.11.16-04.47.52:294][268]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -100.0
+[2025.11.16-04.47.52:334][271]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -110.0
+[2025.11.16-04.47.52:374][274]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -120.0
+[2025.11.16-04.47.52:426][278]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -130.0
+[2025.11.16-04.47.52:452][280]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -140.0
+[2025.11.16-04.47.52:508][284]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -150.0
+[2025.11.16-04.47.52:547][287]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -160.0
+[2025.11.16-04.47.52:587][290]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -170.0
+[2025.11.16-04.47.52:626][293]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -180.0
+[2025.11.16-04.47.52:679][297]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -190.0
+[2025.11.16-04.47.52:735][301]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -200.0
+[2025.11.16-04.47.52:787][305]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -210.0
+[2025.11.16-04.47.52:825][308]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -220.0
+[2025.11.16-04.47.52:877][312]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -230.0
+[2025.11.16-04.47.52:932][316]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -240.0
+[2025.11.16-04.47.52:984][320]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -250.0
+[2025.11.16-04.47.53:036][324]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -260.0
+[2025.11.16-04.47.53:075][327]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -270.0
+[2025.11.16-04.47.53:128][331]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -280.0
+[2025.11.16-04.47.53:181][335]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -290.0
+[2025.11.16-04.47.53:234][339]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -300.0
+[2025.11.16-04.47.53:285][343]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -310.0
+[2025.11.16-04.47.53:339][347]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -320.0
+[2025.11.16-04.47.53:380][350]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -330.0
+[2025.11.16-04.47.53:431][354]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -340.0
+[2025.11.16-04.47.53:482][358]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -350.0
+[2025.11.16-04.47.53:534][362]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -360.0
+[2025.11.16-04.47.53:590][366]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -370.0
+[2025.11.16-04.47.53:630][369]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -380.0
+[2025.11.16-04.47.53:695][374]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -390.0
+[2025.11.16-04.47.53:868][387]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -400.0
+[2025.11.16-04.47.54:554][438]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -410.0
+[2025.11.16-04.47.54:623][443]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -420.0
+[2025.11.16-04.47.58:418][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.47.58:418][738]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.47.58:419][738]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.47.58:419][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.47.58:421][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.47.58:426][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.47.58:454][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.47.58:454][738]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.16-04.47.58:454][738]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.11.16-04.47.58:456][738]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.11.16-04.47.58:460][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.47.58:462][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.16-04.47.58:567][739]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.11.16-04.48.03:930][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5797.090820
+[2025.11.16-04.48.04:932][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.48.04:932][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5797.757324, Update Interval: 349.815369
+[2025.11.16-04.48.54:701][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.16-04.48.56:492][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.48.56:498][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.48.56:498][337]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.48.56:501][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003082s)
+[2025.11.16-04.48.56:501][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003110s)
+[2025.11.16-04.48.56:527][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.16-04.48.56:530][337]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.48.56:532][337]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2025.11.16-04.48.56:533][337]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.11.16-04.48.56:533][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.48.56:533][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.48.56:533][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.48.56:533][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.48.56:533][337]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.48.56:533][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.48.56:533][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.48.56:533][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.48.56:533][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.48.56:533][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.48.56:533][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.48.56:535][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.48.56:566][337]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.48.56:566][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.48.56:566][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.48.56:566][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.48.56:567][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.11.16-04.48.56:567][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2025.11.16-04.48.56:568][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.11.16-04.48.56:568][337]LogInit: FAudioDevice initialized with ID 18.
+[2025.11.16-04.48.56:568][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.11.16-04.48.56:568][337]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestEnviornment'.
+[2025.11.16-04.48.56:568][337]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.16-04.48.56:572][337]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.48.56:573][337]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.48.56
+[2025.11.16-04.48.56:573][337]LogWorld: Bringing up level for play took: 0.000959
+[2025.11.16-04.48.56:575][337]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.11.16-04.48.56:577][337]PIE: Server logged in
+[2025.11.16-04.48.56:579][337]PIE: Play in editor total start time 0.081 seconds.
+[2025.11.16-04.48.56:625][338]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.48.58:858][505]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 90.0
+[2025.11.16-04.48.58:898][508]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 80.0
+[2025.11.16-04.48.58:938][511]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 70.0
+[2025.11.16-04.48.58:977][514]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 60.0
+[2025.11.16-04.48.59:030][518]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 50.0
+[2025.11.16-04.48.59:057][520]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 40.0
+[2025.11.16-04.48.59:100][523]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 30.0
+[2025.11.16-04.48.59:153][527]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 20.0
+[2025.11.16-04.48.59:192][530]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 10.0
+[2025.11.16-04.48.59:233][533]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 0.0
+[2025.11.16-04.48.59:271][536]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -10.0
+[2025.11.16-04.48.59:274][536]Cmd: quit
+[2025.11.16-04.48.59:276][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.48.59:276][536]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.48.59:276][536]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.48.59:276][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.48.59:295][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.48.59:299][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.48.59:324][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.48.59:324][536]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.16-04.48.59:324][536]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.11.16-04.48.59:326][536]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.11.16-04.48.59:330][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.48.59:333][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.16-04.48.59:453][537]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.11.16-04.49.04:372][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.49.04:409][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerChar] ([2] browsable assets)...
+[2025.11.16-04.49.04:409][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerChar]
+[2025.11.16-04.49.04:409][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerChar" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset" SILENT=true
+[2025.11.16-04.49.04:432][930]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerChar
+[2025.11.16-04.49.04:432][930]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_PlayerChar99C9B407495CF5A0312E598D596757E2.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset'
+[2025.11.16-04.49.04:446][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.810 ms (total: 3.72 sec)
+[2025.11.16-04.49.04:478][930]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.49.04:478][930]LogContentValidation: Enabled validators:
+[2025.11.16-04.49.04:478][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.49.04:478][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.49.04:478][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.49.04:478][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.49.04:478][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.49.04:478][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.49.04:478][930]AssetCheck: /Game/Player/BP_PlayerChar Validating asset
+[2025.11.16-04.49.15:665][166]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.11.16-04.50.24:783][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.16-04.50.27:773][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.50.27:807][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerChar] ([2] browsable assets)...
+[2025.11.16-04.50.27:807][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerChar]
+[2025.11.16-04.50.27:807][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerChar" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset" SILENT=true
+[2025.11.16-04.50.27:833][ 70]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerChar
+[2025.11.16-04.50.27:834][ 70]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_PlayerChar275C5DB44C1D4E5531CA06BA9AB281BA.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset'
+[2025.11.16-04.50.27:846][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.856 ms (total: 3.79 sec)
+[2025.11.16-04.50.27:876][ 70]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.50.27:876][ 70]LogContentValidation: Enabled validators:
+[2025.11.16-04.50.27:876][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.50.27:876][ 70]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.50.27:876][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.50.27:876][ 70]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.50.27:876][ 70]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.50.27:876][ 70]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.50.27:876][ 70]AssetCheck: /Game/Player/BP_PlayerChar Validating asset
+[2025.11.16-04.51.44:902][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.16-04.51.45:921][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.51.45:945][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_TurretProjectile] ([2] browsable assets)...
+[2025.11.16-04.51.45:955][415]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_TurretProjectile.BP_TurretProjectile]
+[2025.11.16-04.51.45:955][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_TurretProjectile]
+[2025.11.16-04.51.45:955][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_TurretProjectile" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset" SILENT=true
+[2025.11.16-04.51.45:967][415]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_TurretProjectile
+[2025.11.16-04.51.45:967][415]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_TurretProjectile42CBDCC24B49BE5E7CDE13954BD8D369.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset'
+[2025.11.16-04.51.45:980][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.096 ms (total: 3.85 sec)
+[2025.11.16-04.51.46:015][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.51.46:015][415]LogContentValidation: Enabled validators:
+[2025.11.16-04.51.46:015][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.51.46:015][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.51.46:015][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.51.46:015][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.51.46:015][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.51.46:015][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.51.46:015][415]AssetCheck: /Game/Enemy/Turret/BP_TurretProjectile Validating asset
+[2025.11.16-04.51.56:584][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.11.16-04.51.56:585][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.11.16-04.51.56:586][ 53]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/TestEnviornment.TestEnviornment:PersistentLevel.StaticMeshActor_1
+[2025.11.16-04.51.56:586][ 53]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/TestEnviornment.TestEnviornment:PersistentLevel.StaticMeshActor_1
+[2025.11.16-04.52.16:585][137]LogSlate: Window 'Delta Transform' being destroyed
+[2025.11.16-04.52.36:384][434]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.52.36:391][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.52.36:416][434]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.52.36:419][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003130s)
+[2025.11.16-04.52.36:419][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003166s)
+[2025.11.16-04.52.36:453][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.16-04.52.36:455][434]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.52.36:457][434]LogPlayLevel: PIE: World Init took: (0.001639s)
+[2025.11.16-04.52.36:457][434]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.11.16-04.52.36:457][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.52.36:457][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.52.36:457][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.52.36:457][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.52.36:457][434]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.52.36:457][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.52.36:457][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.52.36:457][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.52.36:457][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.52.36:457][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.52.36:458][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.52.36:460][434]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.52.36:491][434]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.52.36:491][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.52.36:491][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.52.36:491][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.52.36:492][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.11.16-04.52.36:492][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2025.11.16-04.52.36:494][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.11.16-04.52.36:494][434]LogInit: FAudioDevice initialized with ID 19.
+[2025.11.16-04.52.36:494][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.11.16-04.52.36:494][434]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestEnviornment'.
+[2025.11.16-04.52.36:494][434]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.16-04.52.36:497][434]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.52.36:498][434]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.52.36
+[2025.11.16-04.52.36:498][434]LogWorld: Bringing up level for play took: 0.001016
+[2025.11.16-04.52.36:500][434]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.11.16-04.52.36:502][434]PIE: Server logged in
+[2025.11.16-04.52.36:504][434]PIE: Play in editor total start time 0.113 seconds.
+[2025.11.16-04.52.36:553][435]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.52.47:756][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.52.47:756][285]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.52.47:756][285]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.52.47:757][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.52.47:761][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.52.47:766][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.52.47:792][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.52.47:792][285]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.16-04.52.47:792][285]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.11.16-04.52.47:794][285]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.11.16-04.52.47:798][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.52.47:801][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.16-04.52.47:889][286]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.11.16-04.52.55:994][791]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.52.56:000][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.52.56:027][791]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.52.56:030][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003056s)
+[2025.11.16-04.52.56:030][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003091s)
+[2025.11.16-04.52.56:056][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.16-04.52.56:059][791]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.52.56:059][791]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2025.11.16-04.52.56:060][791]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.11.16-04.52.56:060][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.52.56:060][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.52.56:060][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.52.56:060][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.52.56:060][791]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.52.56:060][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.52.56:060][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.52.56:060][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.52.56:060][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.52.56:060][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.52.56:060][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.52.56:062][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.52.56:093][791]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.52.56:093][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.52.56:093][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.52.56:093][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.52.56:094][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.11.16-04.52.56:094][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2025.11.16-04.52.56:096][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.11.16-04.52.56:096][791]LogInit: FAudioDevice initialized with ID 20.
+[2025.11.16-04.52.56:096][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.11.16-04.52.56:096][791]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestEnviornment'.
+[2025.11.16-04.52.56:096][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.16-04.52.56:099][791]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.52.56:100][791]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.52.56
+[2025.11.16-04.52.56:100][791]LogWorld: Bringing up level for play took: 0.001001
+[2025.11.16-04.52.56:102][791]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.11.16-04.52.56:104][791]PIE: Server logged in
+[2025.11.16-04.52.56:106][791]PIE: Play in editor total start time 0.107 seconds.
+[2025.11.16-04.52.56:154][792]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.53.02:486][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.53.02:486][272]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.53.02:486][272]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.53.02:487][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.53.02:489][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.53.02:494][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.53.02:519][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.53.02:519][272]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.16-04.53.02:519][272]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.11.16-04.53.02:521][272]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.11.16-04.53.02:530][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.16-04.53.02:619][273]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.11.16-04.53.27:087][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.53.27:147][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestEnviornment" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.16-04.53.27:204][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.16-04.53.27:222][592]LogSavePackage: Moving output files for package: /Game/TestEnviornment
+[2025.11.16-04.53.27:222][592]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/TestEnviornmentFADAFBB74A4F7E8EBEEA278395B2C040.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap'
+[2025.11.16-04.53.27:236][592]LogFileHelpers: Saving map 'TestEnviornment' took 0.089
+[2025.11.16-04.53.27:247][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.580 ms (total: 4.01 sec)
+[2025.11.16-04.53.27:277][592]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.53.27:278][592]LogContentValidation: Enabled validators:
+[2025.11.16-04.53.27:278][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.53.27:278][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.53.27:278][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.53.27:278][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.53.27:278][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.53.27:278][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.53.27:278][592]AssetCheck: /Game/TestEnviornment Validating asset
+[2025.11.16-04.53.28:254][664]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.53.28:260][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.53.28:260][664]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.53.28:263][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2025.11.16-04.53.28:263][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003113s)
+[2025.11.16-04.53.28:289][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.16-04.53.28:290][664]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.53.28:292][664]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2025.11.16-04.53.28:292][664]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.11.16-04.53.28:293][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.53.28:293][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.53.28:293][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.53.28:293][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.53.28:293][664]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.53.28:293][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.53.28:293][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.53.28:293][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.53.28:293][664]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.53.28:293][664]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.53.28:293][664]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.53.28:294][664]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.53.28:325][664]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.53.28:326][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.53.28:326][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.53.28:326][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.53.28:326][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.11.16-04.53.28:326][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2025.11.16-04.53.28:328][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.11.16-04.53.28:328][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.11.16-04.53.28:328][664]LogInit: FAudioDevice initialized with ID 21.
+[2025.11.16-04.53.28:328][664]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestEnviornment'.
+[2025.11.16-04.53.28:328][664]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.16-04.53.28:332][664]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.53.28:333][664]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.53.28
+[2025.11.16-04.53.28:333][664]LogWorld: Bringing up level for play took: 0.001085
+[2025.11.16-04.53.28:335][664]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.11.16-04.53.28:337][664]PIE: Server logged in
+[2025.11.16-04.53.28:339][664]PIE: Play in editor total start time 0.079 seconds.
+[2025.11.16-04.53.28:385][665]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.53.35:797][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.53.35:797][253]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.53.35:797][253]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.53.35:798][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.53.35:800][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.53.35:805][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.53.35:833][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.53.35:833][253]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.16-04.53.35:833][253]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.11.16-04.53.35:835][253]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.11.16-04.53.35:839][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.53.35:841][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.16-04.53.35:927][254]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.11.16-04.54.36:868][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6190.126465
+[2025.11.16-04.54.36:951][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.54.36:951][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6190.199707, Update Interval: 332.038940
+[2025.11.16-04.54.37:099][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.16-04.54.39:031][962]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.54.39:039][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.54.39:068][962]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.54.39:071][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003040s)
+[2025.11.16-04.54.39:071][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003075s)
+[2025.11.16-04.54.39:095][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.16-04.54.39:097][962]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.54.39:098][962]LogPlayLevel: PIE: World Init took: (0.001750s)
+[2025.11.16-04.54.39:099][962]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.11.16-04.54.39:099][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.54.39:099][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.54.39:099][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.54.39:099][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.54.39:099][962]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.54.39:099][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.54.39:099][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.54.39:099][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.54.39:099][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.54.39:099][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.54.39:099][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.54.39:101][962]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.54.39:132][962]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.54.39:132][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.54.39:132][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.54.39:132][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.54.39:133][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.11.16-04.54.39:133][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2025.11.16-04.54.39:135][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.11.16-04.54.39:135][962]LogInit: FAudioDevice initialized with ID 22.
+[2025.11.16-04.54.39:135][962]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestEnviornment'.
+[2025.11.16-04.54.39:135][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.11.16-04.54.39:135][962]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.16-04.54.39:138][962]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.54.39:139][962]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.54.39
+[2025.11.16-04.54.39:139][962]LogWorld: Bringing up level for play took: 0.001040
+[2025.11.16-04.54.39:141][962]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.11.16-04.54.39:144][962]PIE: Server logged in
+[2025.11.16-04.54.39:146][962]PIE: Play in editor total start time 0.109 seconds.
+[2025.11.16-04.54.39:194][963]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.54.41:386][126]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 90.0
+[2025.11.16-04.54.41:440][130]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 80.0
+[2025.11.16-04.54.41:468][132]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 70.0
+[2025.11.16-04.54.41:508][135]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 60.0
+[2025.11.16-04.54.41:561][139]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 50.0
+[2025.11.16-04.54.41:614][143]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 40.0
+[2025.11.16-04.54.41:669][147]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 30.0
+[2025.11.16-04.54.41:721][151]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 20.0
+[2025.11.16-04.54.41:773][155]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 10.0
+[2025.11.16-04.54.41:826][159]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 0.0
+[2025.11.16-04.54.41:868][162]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -10.0
+[2025.11.16-04.54.41:868][162]Cmd: quit
+[2025.11.16-04.54.41:869][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.54.41:869][162]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.54.41:906][162]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.54.41:906][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.54.41:910][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.54.41:915][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.54.41:940][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.54.41:940][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.16-04.54.41:940][162]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.11.16-04.54.41:942][162]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.11.16-04.54.41:946][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.54.41:948][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.16-04.54.42:043][163]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.11.16-04.54.43:869][295]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.54.43:875][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.54.43:876][295]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.54.43:879][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003006s)
+[2025.11.16-04.54.43:879][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003033s)
+[2025.11.16-04.54.43:908][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.16-04.54.43:910][295]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.54.43:911][295]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2025.11.16-04.54.43:912][295]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.11.16-04.54.43:912][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.54.43:912][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.54.43:912][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.54.43:912][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.54.43:912][295]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.54.43:912][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.54.43:912][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.54.43:912][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.54.43:912][295]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.54.43:912][295]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.54.43:912][295]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.54.43:914][295]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.54.43:945][295]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.54.43:945][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.54.43:945][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.54.43:945][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.54.43:946][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.11.16-04.54.43:946][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2025.11.16-04.54.43:948][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.11.16-04.54.43:948][295]LogInit: FAudioDevice initialized with ID 23.
+[2025.11.16-04.54.43:948][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.11.16-04.54.43:948][295]LogAudio: Display: Audio Device (ID: 23) registered with world 'TestEnviornment'.
+[2025.11.16-04.54.43:948][295]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.16-04.54.43:951][295]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.54.43:952][295]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.54.43
+[2025.11.16-04.54.43:952][295]LogWorld: Bringing up level for play took: 0.001013
+[2025.11.16-04.54.43:954][295]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.11.16-04.54.43:956][295]PIE: Server logged in
+[2025.11.16-04.54.43:958][295]PIE: Play in editor total start time 0.083 seconds.
+[2025.11.16-04.54.44:005][296]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.54.47:487][556]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 90.0
+[2025.11.16-04.54.47:529][559]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 80.0
+[2025.11.16-04.54.49:784][728]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 70.0
+[2025.11.16-04.54.51:635][874]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 60.0
+[2025.11.16-04.54.59:137][465]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 50.0
+[2025.11.16-04.54.59:184][469]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 40.0
+[2025.11.16-04.54.59:349][483]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 30.0
+[2025.11.16-04.54.59:410][488]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 20.0
+[2025.11.16-04.54.59:583][502]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 10.0
+[2025.11.16-04.54.59:661][508]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 0.0
+[2025.11.16-04.54.59:891][526]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -10.0
+[2025.11.16-04.54.59:891][526]Cmd: quit
+[2025.11.16-04.54.59:892][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.54.59:892][526]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.54.59:927][526]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.54.59:927][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.54.59:931][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.54.59:936][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.54.59:959][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.54.59:959][526]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.16-04.54.59:959][526]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.11.16-04.54.59:961][526]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.11.16-04.54.59:968][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.16-04.55.00:062][527]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.11.16-04.55.13:508][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.16-04.55.15:331][843]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.55.15:337][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.55.15:338][843]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.55.15:341][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003006s)
+[2025.11.16-04.55.15:341][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003033s)
+[2025.11.16-04.55.15:365][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.16-04.55.15:368][843]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.55.15:369][843]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2025.11.16-04.55.15:370][843]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.11.16-04.55.15:370][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.55.15:370][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.55.15:370][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.55.15:370][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.55.15:370][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.55.15:370][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.55.15:370][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.55.15:370][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.55.15:370][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.55.15:370][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.55.15:370][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.55.15:372][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.55.15:402][843]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.55.15:403][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.55.15:403][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.55.15:403][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.55.15:403][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.11.16-04.55.15:403][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2025.11.16-04.55.15:405][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.11.16-04.55.15:405][843]LogInit: FAudioDevice initialized with ID 24.
+[2025.11.16-04.55.15:405][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.11.16-04.55.15:405][843]LogAudio: Display: Audio Device (ID: 24) registered with world 'TestEnviornment'.
+[2025.11.16-04.55.15:405][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.16-04.55.15:409][843]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.55.15:410][843]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.55.15
+[2025.11.16-04.55.15:410][843]LogWorld: Bringing up level for play took: 0.001005
+[2025.11.16-04.55.15:412][843]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.11.16-04.55.15:414][843]PIE: Server logged in
+[2025.11.16-04.55.15:415][843]PIE: Play in editor total start time 0.079 seconds.
+[2025.11.16-04.55.15:463][844]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.55.17:897][ 26]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 90.0
+[2025.11.16-04.55.17:954][ 30]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 80.0
+[2025.11.16-04.55.17:994][ 33]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 70.0
+[2025.11.16-04.55.18:047][ 37]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 60.0
+[2025.11.16-04.55.18:099][ 41]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 50.0
+[2025.11.16-04.55.18:141][ 44]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 40.0
+[2025.11.16-04.55.18:194][ 48]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 30.0
+[2025.11.16-04.55.18:247][ 52]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 20.0
+[2025.11.16-04.55.23:119][424]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 10.0
+[2025.11.16-04.55.23:173][428]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 0.0
+[2025.11.16-04.55.23:225][432]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -10.0
+[2025.11.16-04.55.23:225][432]Cmd: quit
+[2025.11.16-04.55.23:226][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.55.23:226][432]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.55.23:226][432]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.55.23:226][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.55.23:246][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.55.23:251][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.55.23:274][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.55.23:274][432]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.16-04.55.23:274][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.11.16-04.55.23:276][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.11.16-04.55.23:280][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.55.23:282][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.16-04.55.23:378][433]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.11.16-04.55.25:496][584]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.55.25:502][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.55.25:527][584]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.55.25:531][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003063s)
+[2025.11.16-04.55.25:531][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003096s)
+[2025.11.16-04.55.25:558][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.16-04.55.25:559][584]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.55.25:561][584]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2025.11.16-04.55.25:561][584]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.11.16-04.55.25:561][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.55.25:561][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.55.25:561][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.55.25:561][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.55.25:561][584]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.55.25:561][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.55.25:561][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.55.25:561][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.55.25:561][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.55.25:561][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.55.25:561][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.55.25:562][584]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.55.25:593][584]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.55.25:593][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.55.25:593][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.55.25:593][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.55.25:594][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.11.16-04.55.25:594][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2025.11.16-04.55.25:596][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.11.16-04.55.25:596][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.11.16-04.55.25:596][584]LogInit: FAudioDevice initialized with ID 25.
+[2025.11.16-04.55.25:596][584]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestEnviornment'.
+[2025.11.16-04.55.25:596][584]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.16-04.55.25:599][584]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.55.25:600][584]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.55.25
+[2025.11.16-04.55.25:600][584]LogWorld: Bringing up level for play took: 0.001000
+[2025.11.16-04.55.25:602][584]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.11.16-04.55.25:604][584]PIE: Server logged in
+[2025.11.16-04.55.25:606][584]PIE: Play in editor total start time 0.105 seconds.
+[2025.11.16-04.55.25:654][585]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.55.40:606][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.55.40:606][717]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.55.40:606][717]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.55.40:607][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.55.40:611][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.55.40:616][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.55.40:642][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.55.40:643][717]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.16-04.55.40:643][717]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.11.16-04.55.40:644][717]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.11.16-04.55.40:653][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.16-04.55.40:711][718]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.11.16-04.56.05:843][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.56.05:843][233]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.56.05:846][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003011s)
+[2025.11.16-04.56.05:846][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003037s)
+[2025.11.16-04.56.05:875][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.16-04.56.05:878][233]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.56.05:879][233]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2025.11.16-04.56.05:880][233]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.11.16-04.56.05:880][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.56.05:880][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.56.05:880][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.56.05:880][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.56.05:880][233]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.56.05:880][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.56.05:880][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.56.05:880][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.56.05:880][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.56.05:880][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.56.05:880][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.56.05:882][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.56.05:913][233]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.56.05:913][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.56.05:913][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.56.05:913][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.56.05:914][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.11.16-04.56.05:914][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=26
+[2025.11.16-04.56.05:915][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.11.16-04.56.05:915][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.11.16-04.56.05:915][233]LogInit: FAudioDevice initialized with ID 26.
+[2025.11.16-04.56.05:915][233]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestEnviornment'.
+[2025.11.16-04.56.05:915][233]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.11.16-04.56.05:919][233]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.56.05:920][233]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.56.05
+[2025.11.16-04.56.05:920][233]LogWorld: Bringing up level for play took: 0.000979
+[2025.11.16-04.56.05:922][233]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.11.16-04.56.05:924][233]PIE: Server logged in
+[2025.11.16-04.56.05:926][233]PIE: Play in editor total start time 0.083 seconds.
+[2025.11.16-04.56.05:973][234]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.56.12:676][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.56.12:676][741]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.56.12:676][741]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.56.12:677][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.56.12:681][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.56.12:686][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.56.12:713][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.56.12:713][741]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.11.16-04.56.12:713][741]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2025.11.16-04.56.12:715][741]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2025.11.16-04.56.12:720][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.56.12:723][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.16-04.56.12:810][742]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.11.16-04.56.25:083][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.56.25:083][515]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.56.25:087][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003003s)
+[2025.11.16-04.56.25:087][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003030s)
+[2025.11.16-04.56.25:114][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.16-04.56.25:116][515]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.56.25:118][515]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2025.11.16-04.56.25:118][515]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.11.16-04.56.25:118][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.56.25:118][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.56.25:118][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.56.25:118][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.56.25:118][515]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.56.25:118][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.56.25:118][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.56.25:118][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.56.25:118][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.56.25:118][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.56.25:118][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.56.25:120][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.56.25:151][515]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.56.25:151][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.56.25:151][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.56.25:151][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.56.25:151][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.11.16-04.56.25:151][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=27
+[2025.11.16-04.56.25:154][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.11.16-04.56.25:154][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.11.16-04.56.25:154][515]LogInit: FAudioDevice initialized with ID 27.
+[2025.11.16-04.56.25:154][515]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestEnviornment'.
+[2025.11.16-04.56.25:154][515]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.11.16-04.56.25:157][515]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.56.25:158][515]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.56.25
+[2025.11.16-04.56.25:158][515]LogWorld: Bringing up level for play took: 0.000972
+[2025.11.16-04.56.25:160][515]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.11.16-04.56.25:162][515]PIE: Server logged in
+[2025.11.16-04.56.25:164][515]PIE: Play in editor total start time 0.081 seconds.
+[2025.11.16-04.56.25:211][516]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.56.34:475][201]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 90.0
+[2025.11.16-04.56.34:529][205]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 80.0
+[2025.11.16-04.56.34:570][208]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 70.0
+[2025.11.16-04.56.34:627][212]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 60.0
+[2025.11.16-04.56.34:668][215]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 50.0
+[2025.11.16-04.56.34:722][219]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 40.0
+[2025.11.16-04.56.36:074][317]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 30.0
+[2025.11.16-04.56.36:114][320]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 20.0
+[2025.11.16-04.56.36:156][323]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 10.0
+[2025.11.16-04.56.36:198][326]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 0.0
+[2025.11.16-04.56.36:240][329]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -10.0
+[2025.11.16-04.56.36:241][329]Cmd: quit
+[2025.11.16-04.56.36:241][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.56.36:241][329]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.56.36:266][329]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.56.36:266][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.56.36:270][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.56.36:276][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.56.36:303][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.16-04.56.36:303][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.11.16-04.56.36:303][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2025.11.16-04.56.36:305][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2025.11.16-04.56.36:309][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.56.36:312][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.16-04.56.36:434][330]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.11.16-04.56.38:406][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.56.38:406][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.56.38:409][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003023s)
+[2025.11.16-04.56.38:409][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003049s)
+[2025.11.16-04.56.38:432][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.16-04.56.38:434][460]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.56.38:435][460]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2025.11.16-04.56.38:436][460]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.11.16-04.56.38:436][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.56.38:436][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.56.38:436][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.56.38:436][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.56.38:436][460]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.56.38:436][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.56.38:436][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.56.38:436][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.56.38:436][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.56.38:436][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.56.38:436][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.56.38:437][460]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.56.38:468][460]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.56.38:468][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.56.38:468][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.56.38:468][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.56.38:468][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.11.16-04.56.38:468][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=28
+[2025.11.16-04.56.38:471][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.11.16-04.56.38:471][460]LogInit: FAudioDevice initialized with ID 28.
+[2025.11.16-04.56.38:471][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.11.16-04.56.38:471][460]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestEnviornment'.
+[2025.11.16-04.56.38:471][460]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.11.16-04.56.38:474][460]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.56.38:475][460]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.56.38
+[2025.11.16-04.56.38:475][460]LogWorld: Bringing up level for play took: 0.000965
+[2025.11.16-04.56.38:477][460]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.11.16-04.56.38:479][460]PIE: Server logged in
+[2025.11.16-04.56.38:481][460]PIE: Play in editor total start time 0.076 seconds.
+[2025.11.16-04.56.38:529][461]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.56.45:188][959]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 90.0
+[2025.11.16-04.56.45:240][963]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 80.0
+[2025.11.16-04.56.45:269][965]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 70.0
+[2025.11.16-04.56.45:309][968]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 60.0
+[2025.11.16-04.56.45:361][972]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 50.0
+[2025.11.16-04.56.45:400][975]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 40.0
+[2025.11.16-04.56.45:452][979]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 30.0
+[2025.11.16-04.56.45:481][981]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 20.0
+[2025.11.16-04.56.45:520][984]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 10.0
+[2025.11.16-04.56.45:571][988]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 0.0
+[2025.11.16-04.56.45:611][991]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -10.0
+[2025.11.16-04.56.45:611][991]Cmd: quit
+[2025.11.16-04.56.45:611][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.56.45:612][991]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.56.45:636][991]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.56.45:636][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.56.45:640][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.56.45:645][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.56.45:672][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.56.45:672][991]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.11.16-04.56.45:672][991]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2025.11.16-04.56.45:674][991]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2025.11.16-04.56.45:680][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.16-04.56.45:801][992]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.11.16-04.56.48:697][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.16-04.56.48:703][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.16-04.56.48:726][199]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.56.48:729][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003039s)
+[2025.11.16-04.56.48:729][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestEnviornment.TestEnviornment to /Game/UEDPIE_0_TestEnviornment.TestEnviornment (0.003072s)
+[2025.11.16-04.56.48:757][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.16-04.56.48:758][199]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnviornment
+[2025.11.16-04.56.48:760][199]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2025.11.16-04.56.48:761][199]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.11.16-04.56.48:761][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.16-04.56.48:761][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.16-04.56.48:761][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.16-04.56.48:761][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.16-04.56.48:761][199]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.16-04.56.48:761][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.16-04.56.48:761][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.16-04.56.48:761][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.16-04.56.48:761][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.16-04.56.48:761][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.16-04.56.48:761][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.16-04.56.48:763][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.16-04.56.48:793][199]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Yeti Classic)
+[2025.11.16-04.56.48:794][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.16-04.56.48:794][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.16-04.56.48:794][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.16-04.56.48:794][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.11.16-04.56.48:794][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=29
+[2025.11.16-04.56.48:796][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.11.16-04.56.48:796][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.11.16-04.56.48:796][199]LogInit: FAudioDevice initialized with ID 29.
+[2025.11.16-04.56.48:796][199]LogAudio: Display: Audio Device (ID: 29) registered with world 'TestEnviornment'.
+[2025.11.16-04.56.48:796][199]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.11.16-04.56.48:800][199]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.16-04.56.48:801][199]LogWorld: Bringing World /Game/UEDPIE_0_TestEnviornment.TestEnviornment up for play (max tick rate 0) at 2025.11.15-23.56.48
+[2025.11.16-04.56.48:801][199]LogWorld: Bringing up level for play took: 0.000987
+[2025.11.16-04.56.48:803][199]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.11.16-04.56.48:805][199]PIE: Server logged in
+[2025.11.16-04.56.48:807][199]PIE: Play in editor total start time 0.104 seconds.
+[2025.11.16-04.56.48:854][200]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.16-04.56.51:693][412]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 90.0
+[2025.11.16-04.56.51:748][416]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 80.0
+[2025.11.16-04.56.51:802][420]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 70.0
+[2025.11.16-04.56.51:842][423]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 60.0
+[2025.11.16-04.56.51:894][427]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 50.0
+[2025.11.16-04.56.51:948][431]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 40.0
+[2025.11.16-04.56.51:989][434]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 30.0
+[2025.11.16-04.57.00:856][119]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 20.0
+[2025.11.16-04.57.01:496][168]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 10.0
+[2025.11.16-04.57.01:549][172]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 0.0
+[2025.11.16-04.57.01:588][175]LogBlueprintUserMessages: [BP_PlayerChar_C_0] -10.0
+[2025.11.16-04.57.01:588][175]Cmd: quit
+[2025.11.16-04.57.01:589][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.57.01:590][175]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestEnviornment
+[2025.11.16-04.57.01:590][175]LogWorld: UWorld::CleanupWorld for TestEnviornment, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.57.01:590][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.57.01:608][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.16-04.57.01:614][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.57.01:641][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.16-04.57.01:641][175]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.11.16-04.57.01:641][175]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2025.11.16-04.57.01:643][175]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2025.11.16-04.57.01:650][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.16-04.57.01:767][176]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.11.16-04.57.05:278][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.57.05:341][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestEnviornment" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.16-04.57.05:395][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.16-04.57.05:412][409]LogSavePackage: Moving output files for package: /Game/TestEnviornment
+[2025.11.16-04.57.05:412][409]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/TestEnviornment0664DAAA4E475C5EED781285CA248261.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap'
+[2025.11.16-04.57.05:426][409]LogFileHelpers: Saving map 'TestEnviornment' took 0.085
+[2025.11.16-04.57.05:438][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.447 ms (total: 4.17 sec)
+[2025.11.16-04.57.05:466][409]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.57.05:466][409]LogContentValidation: Enabled validators:
+[2025.11.16-04.57.05:466][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.57.05:466][409]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.57.05:466][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.57.05:466][409]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.57.05:466][409]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.57.05:466][409]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.57.05:466][409]AssetCheck: /Game/TestEnviornment Validating asset
+[2025.11.16-04.57.09:210][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.11.16-04.57.09:214][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.57.09:248][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Turret/BP_Turret] ([2] browsable assets)...
+[2025.11.16-04.57.09:287][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Turret/BP_Turret.BP_Turret]
+[2025.11.16-04.57.09:287][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Turret/BP_Turret]
+[2025.11.16-04.57.09:287][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret/BP_Turret" FILE="I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset" SILENT=true
+[2025.11.16-04.57.09:302][644]LogSavePackage: Moving output files for package: /Game/Enemy/Turret/BP_Turret
+[2025.11.16-04.57.09:302][644]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_Turret4DEEB78A4A3A90D2D9AFC9BE57818F4C.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset'
+[2025.11.16-04.57.09:323][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.726 ms (total: 4.28 sec)
+[2025.11.16-04.57.09:357][644]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.57.09:358][644]LogContentValidation: Enabled validators:
+[2025.11.16-04.57.09:358][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.57.09:358][644]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.57.09:358][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.57.09:358][644]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.57.09:358][644]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.57.09:358][644]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.57.09:358][644]AssetCheck: /Game/Enemy/Turret/BP_Turret Validating asset
+[2025.11.16-04.57.40:069][449]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.16-04.57.40:613][449]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.515617 MB), EncodeSpeed: Fast
+[2025.11.16-04.57.46:715][845]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.16-04.58.33:998][247]Cmd: SELECT NONE
