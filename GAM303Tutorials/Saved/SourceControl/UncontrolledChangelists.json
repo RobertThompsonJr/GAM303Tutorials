@@ -17,7 +17,9 @@
 				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Inputs/Input_Interact.uasset",
 				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Inputs/Input_Jump.uasset",
 				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/BP_CollectiblePickup.uasset",
-				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/BP_PhysicsPickup.uasset"
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/BP_PhysicsPickup.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap"
 			]
 		}
 	]
