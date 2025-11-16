@@ -19,7 +19,11 @@
 				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/BP_CollectiblePickup.uasset",
 				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/BP_PhysicsPickup.uasset",
 				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
-				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap"
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap",
+				"K:/Epic Games Library/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset"
 			]
 		}
 	]
