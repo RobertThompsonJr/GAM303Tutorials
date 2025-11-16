@@ -2307,3 +2307,41 @@ Sampler Limit: 32
 [2025.11.16-03.57.31:939][870]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2764.179932
 [2025.11.16-03.57.32:939][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.16-03.57.32:939][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2764.847412, Update Interval: 331.643433
+[2025.11.16-04.02.08:435][945]LogSlate: Window 'Message' being destroyed
+[2025.11.16-04.02.08:440][945]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2025.11.16-04.02.16:150][ 59]LogSlate: Window 'Message' being destroyed
+[2025.11.16-04.02.16:155][ 59]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2025.11.16-04.02.17:721][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.11.16-04.02.17:919][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.11.16-04.02.17:996][ 59]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.16-04.02.17:996][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.16-04.02.18:052][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.16-04.02.21:456][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.16-04.02.21:460][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-04.02.21:487][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2025.11.16-04.02.21:537][321]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2025.11.16-04.02.21:537][321]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2025.11.16-04.02.21:537][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2025.11.16-04.02.21:546][321]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial
+[2025.11.16-04.02.21:549][321]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BasicShapeMaterial4677C3E84E3739B228A3DABD40296D91.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2025.11.16-04.02.21:569][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.349 ms (total: 1.88 sec)
+[2025.11.16-04.02.21:604][321]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-04.02.21:604][321]LogContentValidation: Enabled validators:
+[2025.11.16-04.02.21:604][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-04.02.21:604][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-04.02.21:604][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-04.02.21:604][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-04.02.21:604][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-04.02.21:604][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-04.02.21:604][321]AssetCheck: /Engine/BasicShapes/BasicShapeMaterial Validating asset
+[2025.11.16-04.02.21:632][321]LogSourceControl: Display: Uncontrolled Changelist persistency file saved I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.16-04.03.58:635][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3150.872803
+[2025.11.16-04.03.59:624][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.03.59:624][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3151.528076, Update Interval: 308.236328
+[2025.11.16-04.10.01:354][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3513.592773
+[2025.11.16-04.10.02:366][944]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.16-04.10.02:366][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3514.259521, Update Interval: 352.245239
