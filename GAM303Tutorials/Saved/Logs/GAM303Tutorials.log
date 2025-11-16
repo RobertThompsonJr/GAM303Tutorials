@@ -2284,3 +2284,20 @@ Sampler Limit: 32
 [2025.11.16-03.46.41:277][153]LogPlayLevel: Display: Destroying online subsystem :Context_22
 [2025.11.16-03.46.50:145][784]Cmd: SELECT NONE
 [2025.11.16-03.46.55:838][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.16-03.50.24:992][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.16-03.50.25:811][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.16-03.50.25:842][375]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactables/AnimatedInteractables/BP_Door] ([2] browsable assets)...
+[2025.11.16-03.50.25:894][375]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactables/AnimatedInteractables/BP_Door.BP_Door]
+[2025.11.16-03.50.25:894][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/AnimatedInteractables/BP_Door]
+[2025.11.16-03.50.25:908][375]LogSavePackage: Moving output files for package: /Game/Interactables/AnimatedInteractables/BP_Door
+[2025.11.16-03.50.25:909][375]LogSavePackage: Moving 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Saved/BP_DoorB39B84224D7E9A4324D44DAE5961104B.tmp' to 'I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/AnimatedInteractables/BP_Door.uasset'
+[2025.11.16-03.50.25:922][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.446 ms (total: 1.77 sec)
+[2025.11.16-03.50.25:946][375]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.16-03.50.25:946][375]LogContentValidation: Enabled validators:
+[2025.11.16-03.50.25:946][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.16-03.50.25:946][375]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.16-03.50.25:946][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.16-03.50.25:946][375]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.16-03.50.25:946][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.16-03.50.25:946][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.16-03.50.25:946][375]AssetCheck: /Game/Interactables/AnimatedInteractables/BP_Door Validating asset
