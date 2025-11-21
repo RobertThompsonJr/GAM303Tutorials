@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"K:/Epic Games Library/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Inputs/Mapping_Player.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Player/BP_PlayerCont.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Widget/W_PlayerHUD.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/TestEnviornment.umap",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Interactables/BP_CollectiblePickup.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Interactables/BP_PhysicsPickup.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Interfaces/Interface_Interact.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Interactables/Interact.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Inputs/Input_Crouch.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Inputs/Mapping_Player.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/GAM303Tutorials/Content/TestEnviornment.umap",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_Turret.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Enemy/Turret/BP_TurretProjectile.uasset",
+				"I:/Unreal Engine/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/TestEnviornment.umap",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Inputs/Mapping_Player.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Inputs/Input_Movement.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Inputs/Input_Look.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerChar.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_GameMode.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Player/BP_PlayerCont.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interfaces/Interface_Interact.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/Interact.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Inputs/Input_Interact.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Inputs/Input_Jump.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/BP_CollectiblePickup.uasset",
+				"I:/Unreal Engine/Unreal Engine Projects/SNHU GAM 303 Tutorials/GAM303Tutorials/Content/Interactables/BP_PhysicsPickup.uasset"
+			]
+		}
+	]
+}
